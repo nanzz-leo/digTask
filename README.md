@@ -1,4 +1,4 @@
-# digTask
+# Task (dig / osint)
 # Operation: Silent Signal
 
 A suspicious transmission has been intercepted. At first glance, the file appears to be an ordinary audio recording, but intelligence reports suggest otherwise.
